@@ -1,0 +1,4 @@
+
+SELECT NAME,POPULATION,AREA FROM World
+where area >= 3000000
+OR population >= 25000000;
